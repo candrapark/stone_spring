@@ -1,0 +1,10 @@
+/dao/
+/hibernate/
+/log4j.properties
+/model/
+/mybatis/
+/servlets/
+/spring/
+/struts.xml
+/struts2/
+/util/
